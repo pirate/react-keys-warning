@@ -1,7 +1,7 @@
 # react-keys-warning
 Repo to reproduce the "each child should have a unique key prop" error in react v16
 
-## Steps to reproduct
+## Steps to reproduce
 1. Open `test.html`
 2. Open JS console
 3. See error text:
